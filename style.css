@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    font-family: arial;
+    color: white;
+}
+h1{
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.maindiv{
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 200px;
+    border-radius: 250x;
+    text-align: center;
+
+
+}
